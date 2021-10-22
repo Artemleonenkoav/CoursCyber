@@ -2,10 +2,11 @@ package lesson2;
 
 public class HomeTask3 {
     public static void main(String[] args) {
-        String a = "\nмоя строка 1";
+        String f = "\nмоя строка 1";
         String b = "\tмоя строка 2";
         String c = "\fмоя строка 3";
-        System.out.println(a);
+        String h = "\fмоя строка 3";
+        System.out.println(f);
         System.out.println(b);
         System.out.println(c);
     }
