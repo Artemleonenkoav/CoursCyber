@@ -8,6 +8,7 @@ public class HomeTask3 {
         String h = "\fмоя строка 3";
         String s = "\fмоя строка 3";
 
+
         System.out.println(f);
         System.out.println(b);
         System.out.println(c);
